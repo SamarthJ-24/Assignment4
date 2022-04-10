@@ -4,7 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int i = 0b00000100;
+        final int i = 0b00000100;
+
         System.out.println(i);
         System.out.println(Integer.toBinaryString(i));
 

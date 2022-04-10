@@ -1,7 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6896c67a-f0c8-48ee-9c08-fdc93266d00c" name="Default Changelist" comment="Refactored" />
+    <list default="true" id="6896c67a-f0c8-48ee-9c08-fdc93266d00c" name="Default Changelist" comment="Refactored">
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/bitops/Main$BitArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/bitops/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/equals/Equals$Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/equals/Equals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/equals/Equals2$Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/equals/Equals2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/equals/Equals3$Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/equals/Equals3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/equals/Equals4$Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/equals/Equals4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/file_search/files.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/fract_noise/FractalNoise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/fract_noise/GetValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/fract_noise/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/fract_noise/Noise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/fract_noise/Random.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/funcops/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/funcops/FuncUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/funcops/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/funcops/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/funcops/inter/Action1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/funcops/inter/Func0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/funcops/inter/Func1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/funcops/inter/Func2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/funcops/inter/Func3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman/Main$BitArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman/Main$CodeTreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman/compressed.huf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman/decompressed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman/voyna-i-mir-tom-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman/voyna-i-mir-tom-1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman_adapt/digital/BitBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman_adapt/digital/BitToByteWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman_adapt/digital/CodeTreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman_adapt/digital/CoderTestApp$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman_adapt/digital/CoderTestApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman_adapt/digital/EncodeAndDecodeApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman_adapt/digital/EncodingModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman_adapt/digital/EncodingModelRefreshing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman_adapt/digital/EncodingModelSimple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman_adapt/digital/HuffmanDecoderStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman_adapt/digital/HuffmanEncoderStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/huffman_adapt/digital/TestMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/imageprocess2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/imageprocess2/photo_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/iterator/MainDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/iterator/MainIteration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/iterator/MainRange$Range$Iterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/iterator/MainRange$Range.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/iterator/MainRange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/iterator/MainSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/knapsack/MainBruteforce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/knapsack/MainDynamic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/knapsack/MainGreedy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/linkedlist/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/linkedlist/Main$Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/linkedlist/Main$SingleLinkList$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/linkedlist/Main$SingleLinkList$ListItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/linkedlist/Main$SingleLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/linkedlist/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/minimal/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/deadlock/Deadlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/deadlock/DeadlockComplex$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/deadlock/DeadlockComplex$Resource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/deadlock/DeadlockComplex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/queue/BlockingQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/queue/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/queue/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/queue/Main$BlockingQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/queue/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/stop/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/stop/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/stop/Main$BlockingQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/stop/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/synchro/Syncro$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/synchro/Syncro$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/multithreading/synchro/Syncro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/parser/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/parser/Main$Lexeme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/parser/Main$LexemeBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/parser/Main$LexemeType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/parser/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/parserfunc/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/parserfunc/Main$Function.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/parserfunc/Main$Lexeme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/parserfunc/Main$LexemeBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/parserfunc/Main$LexemeType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/parserfunc/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/prefix_tree/Main$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/prefix_tree/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/prefix_tree/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/prefix_tree/tree.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/prefix_tree/tree_formatted.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/primenums/Eratosfen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/primenums/PrimeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/primenums/Random$RandomGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/primenums/Random.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/primenums/visual/EratosfenComponent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/primenums/visual/GraphMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/search/Search.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/second_minimal/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/sort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/sort/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/sort/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/sort/count/CountSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/sort/count/CountSortObjects$Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/sort/count/CountSortObjects.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/sort/insertion/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/stack/BlockingQueueSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/stack/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/stack/SimpleQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/stack/SimpleStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/stack/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/stack/StackTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/stars/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/stars/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/stars/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/stars/Render.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/stars/file_render/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/stars/file_render/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/stars/file_render/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/stars/file_render/Render.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/string_search/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/time/Calendars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/time/Dateformat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/time/Dates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/time/Millis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/tree1/tree$Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/tree1/tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/tree2/Tree2$Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/tree2/Tree2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/tree2/graph/GraphMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/tree2/graph/model/GraphModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/tree2/graph/model/GraphNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/tree2/graph/view/FieldComponent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/tree3/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/tree3/Main$Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/tree3/Main$DataNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/tree3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/tree3/TreeNode$TypeAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/tree3/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/engine/animator/Animator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/engine/animator/AnimatorGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/engine/animator/PropertyAnimator$Evaluator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/engine/animator/PropertyAnimator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/engine/animator/evaluator/IntLinearEvaluator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/engine/drawable/DrawableGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/engine/drawable/DrawableObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/engine/drawable/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/engine/scene/AnimationProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/engine/scene/Scene.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/impl/IntArrayDrawable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/raster/Raster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/raster/RasterWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/samples/array/ArraySample$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/samples/array/ArraySample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/samples/array/BubbleSortAnimationProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/samples/array/InsertionSortAnimationProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/samples/array/QuickSortAnimationProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/samples/array/RasterFileWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/samples/array/SelectionSortAnimationProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/stream/ru/arhiser/visual/samples/array/SortAnimationRecorder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/arhiser/bitops/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arhiser/bitops/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,6 +355,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.arhiser.stars.Main" />
+      <module name="stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.arhiser.stars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.arhiser.bitops.Main" />
       <module name="stream" />
@@ -226,33 +407,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.arhiser.funcops.Test2" />
-      <module name="stream" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.arhiser.funcops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Test2" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.CoderTestApp" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.CoderTestApp" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.CoderTestApp" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
